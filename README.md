@@ -1,3 +1,5 @@
+# important !
+This version contain pull request with fix https://github.com/gmostert/ng2-breadcrumb/pull/77
 # ng2-breadcrumb
 This component generates a breadcrumb trail, as you navigate to child routes using the @angular/router. It interprets the browser URL of a navigate request, 
 in the same way the component router does to match a path to a specific component, to build up a hierarchy of available parent/child routes for that destination.
